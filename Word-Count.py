@@ -32,4 +32,5 @@ except:
 
 '''
 注意：这个Python文件需与你想查询的文件放在同一个文件夹。
+Please Put this python file and your file in one folder.
 '''
